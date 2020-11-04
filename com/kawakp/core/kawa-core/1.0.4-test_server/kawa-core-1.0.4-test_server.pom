@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kawakp.core</groupId>
   <artifactId>kawa-core</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4-test_server</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
